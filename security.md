@@ -35,6 +35,11 @@ Because the app runs on Forge, it inherits Atlassian's infrastructure controls,
 tenancy isolation and platform patching. Atlassian publishes those at
 [atlassian.com/trust](https://www.atlassian.com/trust).
 
+## If something goes wrong
+
+Our [security incident response plan](./incident-response.html) sets out who leads, how we
+contain a problem, and when we tell Atlassian and affected customers.
+
 ## Scope and limits
 
 We are a small vendor. We do not currently hold SOC 2 or ISO 27001 certification, and
