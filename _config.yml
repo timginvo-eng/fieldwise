@@ -1,0 +1,5 @@
+# GitHub Pages builds this with Jekyll. The theme only has to be legible and load fast;
+# an Atlassian reviewer opens these pages to check they exist and say what they should.
+title: Fieldwise
+description: Dashboard gadgets for Jira Cloud
+theme: jekyll-theme-minimal
