@@ -18,6 +18,7 @@ chart.
 
 - [Privacy Policy](./privacy.html)
 - [Terms of Service](./terms.html)
+- [Security Policy](./security.html)
 
 ## Support
 
