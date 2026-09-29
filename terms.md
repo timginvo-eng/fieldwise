@@ -33,7 +33,7 @@ permissions. See the [Privacy Policy](./privacy.html) for detail.
 
 ## 5. Support
 
-Support is provided by email at **timginvo@gmail.com**. We aim to respond to every
+Support is provided by email at **support@tastenet.shop**. We aim to respond to every
 message within two business days. Support covers defects and questions about using the
 app; it does not include Jira administration or custom development.
 
