@@ -62,4 +62,4 @@ always at this address.
 
 ## Contact
 
-Questions about privacy, or a request relating to your data: **timginvo@gmail.com**
+Questions about privacy, or a request relating to your data: **support@tastenet.shop**
