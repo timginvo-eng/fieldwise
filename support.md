@@ -10,7 +10,7 @@ The [Fieldwise support portal](https://timginvo.atlassian.net/servicedesk/custom
 takes questions, bug reports, feature requests and billing queries. Requests raised
 there are tracked and answered in order.
 
-You can also email [timginvo@gmail.com](mailto:timginvo@gmail.com).
+You can also email [support@tastenet.shop](mailto:support@tastenet.shop).
 
 ## What to include
 
