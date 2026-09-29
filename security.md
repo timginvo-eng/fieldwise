@@ -8,7 +8,7 @@ title: Security Policy — Fieldwise
 
 ## Reporting a vulnerability
 
-Email **timginvo@gmail.com** with "SECURITY" in the subject. We aim to acknowledge
+Email **security@tastenet.shop** with "SECURITY" in the subject. We aim to acknowledge
 within two business days and to agree a disclosure timeline with you. Please do not
 open a public issue for a security problem.
 
