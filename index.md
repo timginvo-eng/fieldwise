@@ -17,7 +17,7 @@ chart. [Documentation](./docs.html).
 ## Support
 
 Raise a request in the [support portal](https://timginvo.atlassian.net/servicedesk/customer/portal/1)
-or email **timginvo@gmail.com**. We aim to reply within two business days. More on the
+or email **support@tastenet.shop**. We aim to reply within two business days. More on the
 [support page](./support.html).
 
 ## Legal
